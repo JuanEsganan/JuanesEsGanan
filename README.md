@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Juan Ganan
+- 👋 Hi, I’m @Juan Ganan, i'm a Platzi student
 - 👀 I’m interested in learn more and get some experience (if i do not how to do it, i will learn!!!)
-- 🌱 I’m currently learning Python (django. Flask, Tkinter), SQL
+- 🌱 I’m currently learning Python for the Backend with django. Flask, MySQL, Mongo Db, MariaDb
 - 💞️ I’m looking to collaborate on a project with SQL, Python
 - 📫 How to reach me, by email j_aness@hotmail.com
 
